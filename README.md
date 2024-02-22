@@ -11,6 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohityadav-sas&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhakalmahima188&layout=compact&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohityadav-sas&layout=compact&theme=radical&count_private=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhakalmahima188&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohityadav-sas&theme=dark)](https://git.io/streak-stats)
