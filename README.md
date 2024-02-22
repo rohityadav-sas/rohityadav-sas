@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Computer Vision
+- 🔭 I’m currently on my journey to become a Full Stack Web Developer.
 - ⚡ Fun fact: Time goes faster at the top of the building than at the bottom. !!
 
 ### :fire: My Stats :<br/>
