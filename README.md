@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-
-- 🔭 I’m currently on my journey to become a Full Stack Web Developer.
-- ⚡ Fun fact: Time goes faster at the top of the building than at the bottom. !!
+🔭 I’m currently on my journey to become a Full Stack Web Developer.
 
 ### :fire: My Stats :<br/>
 <img src="https://komarev.com/ghpvc/?username=rohityadav-sas&style=flat-square&color=blue" alt=""/><br/>
